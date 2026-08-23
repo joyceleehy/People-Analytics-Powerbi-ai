@@ -38,8 +38,6 @@ The solution is organized into six analytical pages:
 5. **AI Insights 1** — AI-assisted interpretation of workforce findings
 6. **AI Insights 2** — AI-assisted HR investigation and recommendations
 
-![People Analytics Command Center dashboard pages](screenshots/dashboard_pages.png)
-
 > **Note:** The screenshot above shows the dashboard page structure. The individual page screenshots provide the detailed visual analysis.
 
 ---
@@ -88,6 +86,8 @@ This prioritization helps HR focus resources on the areas where the data shows t
 ---
 
 # 📊 1. Executive Workforce Overview
+
+![Executive Workforce Overview](screenshots/01_executive_overview.png)
 
 ## What the data shows
 
