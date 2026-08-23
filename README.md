@@ -333,30 +333,7 @@ The AI layer is deliberately constrained:
 - It uses cautious, non-causal language
 - It supports the analyst rather than replacing human judgment
 
-## Insight
-
-AI is treated as an **analytics accelerator**, not as the decision-maker.
-
-The People Analytics process remains:
-
-```text
-Business Question
-       ↓
-Data
-       ↓
-Metric
-       ↓
-Insight
-       ↓
-HR Investigation
-       ↓
-Action
-       ↓
-Outcome
-
----
-
-# About Me
+## About Me
 
 **Joyce Lee How Yee**
 
