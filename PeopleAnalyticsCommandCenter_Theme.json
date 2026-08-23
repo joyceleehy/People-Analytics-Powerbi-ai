@@ -1,0 +1,61 @@
+{
+  "name": "People Analytics Command Center",
+  "dataColors": [
+    "#1F3864",
+    "#4A9B9B",
+    "#C0504D",
+    "#8FAADC",
+    "#7F9F80",
+    "#B4A7D6",
+    "#D9A26C",
+    "#A6A6A6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#1F3864",
+  "good": "#4A9B9B",
+  "neutral": "#D9A26C",
+  "bad": "#C0504D",
+  "maximum": "#1F3864",
+  "center": "#8FAADC",
+  "minimum": "#F5F5F5",
+  "null": "#A6A6A6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 15
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#333333" } },
+            "fontSize": 14,
+            "bold": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1F3864" } },
+            "fontSize": 28,
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#666666" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
